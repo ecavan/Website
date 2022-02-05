@@ -1,14 +1,14 @@
 ---
-bio: I am a physics
+bio: 
 education:
   courses:
   - course: Msc Statistics (sports Analytics)
     institution: Simon Fraser University
-    year: 2021-
+    year: 2023
   - course: Msc Mathematics
     institution: Wilfrid Laurier University
     year: 2019
-  - course: BSc Mathematical Physics (Astrophysics Specialization)
+  - course: BSc Mathematical Physics
     institution: University of Waterloo
     year: 2017
 email: "eli_cavan@live.ca"
@@ -61,13 +61,9 @@ Phone: 416-566-2790
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-I believe in two core things in life: 
-1. That everyone is equal and deserves an equal chance to succeed                  
-2. To improve our future we must first learn from our past.
-
 I believe in being a well rounded person- I have many interests outside of mathematics such as literature, philosophy and politics for example. 
 
-While I'm still growing, I've had many mentors and heros along my journey, whether that be great professors from the universities I've attended (Roger Melko, A. Kempf, E. Martiniez and R.B Mann to name a few), actors (Philip Seymour Hoffman, Robin Williams), comics (Bill Hicks, George Carlin), great writers (Charles Bukowski, Philip Roth, Oscar Wilde) and great scientists (Richard Feynman, Leonard Susskind, Albert Einstein). I am also grateful for the influence of great women such as Emmy Noether, Vera Rubin, Ursula Le Guin and my Msc supervisor Cristina Stoica.  
+I've had many mentors and heroes along my journey, whether that be great professors from the universities I've attended (Roger Melko, A. Kempf, E. Martiniez and R.B Mann, to name but a few), actors (Philip Seymour Hoffman, Robin Williams), comics (Bill Hicks, George Carlin), musicians (Kurt Cobain, Jerry Garcia, John Fogerty) great writers (Charles Bukowski, Philip Roth, Oscar Wilde) and great scientists (Richard Feynman, Leonard Susskind, Albert Einstein). I am also grateful for the influence of great women such as Margaret Atwood, Emmy Noether, Vera Rubin, Ursula Le Guin and my Msc supervisor Cristina Stoica.  
 
 I hope to one day live up to the memory of these great men and women. 
 
