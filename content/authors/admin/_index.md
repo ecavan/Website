@@ -1,5 +1,5 @@
 ---
-bio: I
+bio: I am a physics
 education:
   courses:
   - course: Msc Statistics (sports Analytics)
@@ -30,15 +30,27 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/cavan_elijah
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/elijah-cavan-msc-14b0bab1/
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Elijah-Cavan
 - icon: github
   icon_pack: fab
   link: https://github.com/ecavan
-- icon: linkedin
+- icon: kaggle
   icon_pack: fab
-  link: https://www.linkedin.com/in/elijah-cavan-msc-14b0bab1/
+  link: https://www.kaggle.com/sportsstatseli/code
+- icon: medium
+  icon_pack: fab
+  link: https://ecavan.medium.com/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCILZQTPL0Ac5eo_5O-OM89g/videos
+- icon: itunes
+  icon_pack: fab
+  link: https://podcasts.apple.com/ca/podcast/the-eli-cavan-project/id1510865992
 superuser: true
 title: Elijah Cavan
 ---
@@ -48,5 +60,13 @@ I believe in two core things in life:
 2. To improve our future we must first learn from our past.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+I believe in being a well rounded person- I have many interests outside of mathematics such as literature, philosophy and politics for example. 
+
+While I'm still growing, I've had many mentors and heros along my journey, whether that be great professors from the universities I've attended (Roger Melko, A. Kempf, E. Martiniez and R.B Mann to name a few), actors (Philip Seymour Hoffman, Robin Williams), comics (Bill Hicks, George Carlin), great writers (Charles Bukowski, Philip Roth, Oscar Wilde) and great scientists (Richard Feynman, Leonard Susskind, Albert Einstein). I am also grateful for the influence of great women such as Emmy Noether, Vera Rubin, Ursula Le Guin and my Msc supervisor Cristina Stoica.  
+
+I hope to one day live up to the memory of these men and women. 
+
+
 
 
