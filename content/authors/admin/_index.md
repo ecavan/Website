@@ -17,7 +17,6 @@ interests:
 - Physics (High Energy, Quantum Computing, Astronomy)
 - Mathematical Finance (Portfolio Optimization, Algorithmic Trading, Stochastic Processes)
 - Sports Analytics (Sports Betting, No Limit Poker, Trade Evaluation)
-- Classical Literature 
 organizations:
 - name: N/A
   url: 
