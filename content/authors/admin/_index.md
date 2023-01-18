@@ -14,15 +14,14 @@ education:
 email: "eli_cavan@live.ca"
 highlight_name: true
 interests:
-- High Energy Physics
-- Quantum Computing
-- Bayesian Statistics
-- Stochastic Processes
-- Sports Analytics
+- Physics (High Energy, Quantum Computing, Astronomy)
+- Mathematical Finance (Portfolio Optimization, Algorithmic Trading, Stochastic Processes)
+- Sports Analytics (Sports Betting, No Limit Poker, Trade Evaluation)
+- Classical Literature 
 organizations:
-- name: Stathletes
-  url: https://www.stathletes.com/
-role: Sports Data Science Intern
+- name: N/A
+  url: 
+role: 
 social:
 - display:
     header: true
