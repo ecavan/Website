@@ -14,9 +14,9 @@ education:
 email: "eli_cavan@live.ca"
 highlight_name: true
 interests:
-- Physics (High Energy, Quantum Computing, Astronomy)
-- Mathematical Finance (Portfolio Optimization, Algorithmic Trading, Stochastic Processes)
 - Sports Analytics (Sports Betting, No Limit Poker, Trade Evaluation)
+- Mathematical Finance (Portfolio Optimization, Algorithmic Trading, Stochastic Processes)
+- Physics (High Energy, Quantum Computing, Astronomy)
 organizations:
 - name: N/A
   url: 
