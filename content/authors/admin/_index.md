@@ -2,9 +2,9 @@
 bio: 
 education:
   courses:
-  - course: Msc Statistics (sports Analytics)
+  - course: Msc Statistics
     institution: Simon Fraser University
-    year: 2023
+    year: 2022
   - course: Msc Mathematics
     institution: Wilfrid Laurier University
     year: 2019
