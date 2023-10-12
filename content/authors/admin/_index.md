@@ -30,7 +30,7 @@ social:
   link: https://twitter.com/cavan_elijah
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/elijah-cavan-msc-14b0bab1/
+  link: https://www.linkedin.com/in/elijah-cavan-14b0bab1/
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Elijah-Cavan
