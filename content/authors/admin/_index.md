@@ -59,12 +59,10 @@ Phone: 416-566-2790
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-In the intricate realms of mathematics and analytics, my perspective is not confined to the linear logic of numbers and data. I have a fervent passion for classic literature, music, philosophy, and politics, among others. These are not just casual interests but a reflection of my firm belief in the power of a diverse and holistic outlook.
+My perspective is not confined to the linear logic of numbers and data; I have always had a passion for classic literature, music, philosophy, and politics, among others. These are not just casual interests but a reflection of my firm belief in the power of a diverse and holistic outlook.
 
-My path has led me to crossroads where I've encountered invaluable mentors and been inspired by luminaries from varied domains. From perceptive professors to profound writers, groundbreaking scientists to evocative musicians, each individual has left an indelible imprint, shaping the way I see the world and approach my work.
+My path has led me to crossroads where I've encountered invaluable mentors and been inspired by luminaries from varied domains. From professors to profound writers, groundbreaking scientists to evocative musicians, each individual has left an indelible imprint, shaping the way I see the world and approach my work.
 
-Beyond the complexities of my field, I have always championed authenticity. For me, the true essence of knowledge is not in its ostentation but in its capacity to be shared, understood, and applied for meaningful impact. I'm driven not just by professional excellence but by a genuine desire to touch lives and bridge divides. Approachability, relatability, and a deep-rooted commitment to the causes I believe in are traits I hold dear.
-
-Challenges, while inevitable, have never defined my journey. Instead, they've fortified my resolve. With determination and a touch of stubbornness, I've transformed obstacles into opportunities, always finding innovative avenues to move forward. Engaging in spirited debates, immersing in enriching discussions, and collaborating with sharp minds are among the experiences I value most.
+Beyond the complexities of my field, I have always championed authenticity. For me, the true essence of knowledge is not in its ostentation but in its capacity to be shared, understood, and applied for meaningful impact. Engaging in spirited debates, immersing in enriching discussions & lectures, and collaborating with sharp minds are among the experiences I value most.
 
 As I gaze ahead, my ambition is clear: to carve a legacy that transcends my professional endeavors, resonating in the hearts and minds of those I work with and serve.
