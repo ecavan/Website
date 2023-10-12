@@ -61,8 +61,4 @@ Phone: 416-566-2790
 
 My perspective is not confined to the linear logic of numbers and data; I have always had a passion for classic literature, music, philosophy, and politics, among others. These are not just casual interests but a reflection of my firm belief in the power of a diverse and holistic outlook.
 
-My path has led me to crossroads where I've encountered invaluable mentors and been inspired by luminaries from varied domains. From professors to profound writers, groundbreaking scientists to evocative musicians, each individual has left an indelible imprint, shaping the way I see the world and approach my work.
-
-Beyond the complexities of my field, I have always championed authenticity. For me, the true essence of knowledge is not in its ostentation but in its capacity to be shared, understood, and applied for meaningful impact. Engaging in spirited debates, immersing in enriching discussions & lectures, and collaborating with sharp minds are among the experiences I value most.
-
-As I gaze ahead, my ambition is clear: to carve a legacy that transcends my professional endeavors, resonating in the hearts and minds of those I work with and serve.
+My path has led me to crossroads where I've encountered invaluable mentors and been inspired by luminaries from varied domains. From professors to profound writers, groundbreaking scientists to evocative musicians, each individual has left an indelible imprint, shaping the way I see the world and approach my work. Beyond the complexities of each field, I have always championed authenticity. For me, the true essence of knowledge is not in its ostentation but in its capacity to be shared, understood, and applied for meaningful impact. Engaging in spirited debates, immersing in enriching lectures, and collaborating with sharp minds are among the experiences I value most.
