@@ -18,7 +18,7 @@ interests:
 - Mathematical Finance (Portfolio Optimization, Algorithmic Trading, Stochastic Processes)
 - Physics (High Energy, Quantum Computing, Astronomy)
 organizations:
-- name: N/A
+- name: Data Scientist
   url: 
 role: 
 social:
@@ -59,12 +59,12 @@ Phone: 416-566-2790
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-I believe in being a well rounded person- I have many interests outside of mathematics such as literature, philosophy and politics for example. 
+In the intricate realms of mathematics and analytics, my perspective is not confined to the linear logic of numbers and data. I have a fervent passion for classic literature, music, philosophy, and politics, among others. These are not just casual interests but a reflection of my firm belief in the power of a diverse and holistic outlook.
 
-I've had many mentors and heroes along my journey, whether that be great professors from the universities I've attended (Roger Melko, A. Kempf, E. Martiniez and R.B Mann, to name but a few), actors (Philip Seymour Hoffman, Robin Williams), comics (Bill Hicks, George Carlin), musicians (Kurt Cobain, Jerry Garcia, John Fogerty) great writers (Charles Bukowski, Philip Roth, Oscar Wilde) and great scientists (Richard Feynman, Leonard Susskind, Albert Einstein). I am also grateful for the influence of great women such as Margaret Atwood, Emmy Noether, Vera Rubin, Ursula Le Guin and my Msc supervisor Cristina Stoica.  
+My path has led me to crossroads where I've encountered invaluable mentors and been inspired by luminaries from varied domains. From perceptive professors to profound writers, groundbreaking scientists to evocative musicians, each individual has left an indelible imprint, shaping the way I see the world and approach my work.
 
-I hope to one day live up to the memory of these great men and women. 
+Beyond the complexities of my field, I have always championed authenticity. For me, the true essence of knowledge is not in its ostentation but in its capacity to be shared, understood, and applied for meaningful impact. I'm driven not just by professional excellence but by a genuine desire to touch lives and bridge divides. Approachability, relatability, and a deep-rooted commitment to the causes I believe in are traits I hold dear.
 
+Challenges, while inevitable, have never defined my journey. Instead, they've fortified my resolve. With determination and a touch of stubbornness, I've transformed obstacles into opportunities, always finding innovative avenues to move forward. Engaging in spirited debates, immersing in enriching discussions, and collaborating with sharp minds are among the experiences I value most.
 
-
-
+As I gaze ahead, my ambition is clear: to carve a legacy that transcends my professional endeavors, resonating in the hearts and minds of those I work with and serve.
